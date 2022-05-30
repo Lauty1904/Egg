@@ -26,6 +26,7 @@ public class Poo7 {
         a1.crearpersona();
         a1.calculo();
         a1.mayor();}
+        System.out.println("Probando git hub :) ");
         
         
     }
